@@ -1,0 +1,33 @@
+{
+  "name": "Nelson-GPT",
+  "short_name": "Nelson-GPT",
+  "description": "Pediatric Knowledge at Your Finger Tips",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FEF9F3",
+  "theme_color": "#D97706",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/assets/generated/nelson-gpt-icon.dim_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/generated/nelson-gpt-icon.dim_512x512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/generated/nelson-gpt-icon.dim_512x512.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["medical", "education", "health"],
+  "screenshots": []
+}
